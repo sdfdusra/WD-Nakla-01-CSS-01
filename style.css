@@ -1,0 +1,13 @@
+h1{
+    color: yellow;
+    background-color: green;
+}
+
+body{
+    background-color: #052C3D;
+    background-image: url('images/cycle.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    background-attachment: fixed;
+}
